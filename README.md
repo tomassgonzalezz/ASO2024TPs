@@ -25,3 +25,7 @@ explicacion de cambio de turno
 -un cambio de turno lo puse antes de salir de la zona critica. Lo hice asi para que cuando un hilo come una hamburguesa deba pasar al otro turno para que pueda entrar en la seccion critica y comer una hamburguesa.
 -si no quedan hamburguesas entra al else, alli pongo el cambio de turno y paso al turno siguiente para que no se quede en un bucle infinito mirando la bandeja vacia
 muchisimas gracias hermano
+
+
+![WhatsApp Image 2024-06-07 at 11 23 09 AM](https://github.com/tomassgonzalezz/ASO2024TPs/assets/167874265/a6a83398-dd9c-4fe6-9a6c-9b960b344a0b)
+
